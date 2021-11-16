@@ -1,3 +1,4 @@
-# portifolio
+# Portfólio
+
+**Este é meu primeiro repositório no GitHub, que serve para alguma coisa!**
  
-**Este é o meu primeiro repositório no GitHub,que serve para alguma coisa!**
